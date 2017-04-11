@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "er werwer"
+baseURL = "https:\/\/wqre.ere.fgfdg"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
